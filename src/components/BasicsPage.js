@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, Stethoscope, Shield, Users, CheckCircle, Info } from 'lucide-react';
+import { BookOpen, Stethoscope, Shield, Users, CheckCircle } from 'lucide-react';
 
 function BasicsPage() {
   return (
